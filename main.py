@@ -18,4 +18,8 @@ print("git commit -m '': commit(el trabajo o cambios que realizas) es para hacer
 
 print("git push origin main: Se envian los commits que tienes en tu repositorio local a tu repositorio remoto(github) al cual estas vinculado")
 
+print("git branch: Sirve para ver todas las ramas actuales del repositorio local")
+print("git checkout 'nombre_rama': Sirve para cambiar a otra rama")
+print("git checkout -b 'nombre_rama': Para crear la nueva rama y pasarse a esa rama")
+
 print("Hola karol, sé que tú puedes")
