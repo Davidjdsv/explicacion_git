@@ -22,4 +22,7 @@ print("git branch: Sirve para ver todas las ramas actuales del repositorio local
 print("git checkout 'nombre_rama': Sirve para cambiar a otra rama")
 print("git checkout -b 'nombre_rama': Para crear la nueva rama y pasarse a esa rama")
 
+print("git merge 'nombre_rama': Funciona para traer los cambios de la rama que me quiero traer")
+print("git commit -am 'mensaje de los cambios hechos'")
+
 print("Hola karol, sé que tú puedes")
