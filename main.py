@@ -17,3 +17,5 @@ print("git add 'nombre_archivo' o git add . (punto añade todos los archivos)")
 print("git commit -m '': commit(el trabajo o cambios que realizas) es para hacerle preparar los archivos que se van a enviar al repositorio remoto y -m 'Aqui va el mensaje describiendo los cambios que realizaste'")
 
 print("git push origin main: Se envian los commits que tienes en tu repositorio local a tu repositorio remoto(github) al cual estas vinculado")
+
+print("Hola karol, sé que tú puedes")
